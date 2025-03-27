@@ -4,3 +4,4 @@
 
 # Ignorar pastas específicas
 /venv
+/data

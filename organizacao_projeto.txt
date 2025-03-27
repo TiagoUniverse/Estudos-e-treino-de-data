@@ -1,0 +1,28 @@
+📁 data_engineering_project/
+│
+├── 📁 data/
+│   ├── 📁 raw/
+│   ├── 📁 processed/
+│   └── 📁 output/
+│
+├── 📁 notebooks/
+│   └── 📄 exploratory_analysis.ipynb
+│
+├── 📁 src/
+│   ├── 📄 __init__.py
+│   ├── 📄 ingest_data.py
+│   ├── 📄 transform_data.py
+│   └── 📄 load_data.py
+│
+├── 📁 config/
+│   └── 📄 settings.yaml
+│
+├── 📁 logs/
+│   └── 📄 pipeline.log
+│
+├── 📁 tests/
+│   └── 📄 test_pipeline.py
+│
+├── 📄 requirements.txt
+├── 📄 README.md
+└── 📄 .gitignore
