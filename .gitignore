@@ -1,0 +1,6 @@
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar pastas específicas
+/venv
